@@ -1,0 +1,2 @@
+
+((:TITLE "the monkeys" :ARTIST "the monkeys" :RATING 3 :RIPPED T) (:TITLE "hello" :ARTIST "the hellos" :RATING 3 :RIPPED NIL) (:TITLE "hot fuss" :ARTIST "The Killers" :RATING 5 :RIPPED T) (:TITLE "hot fuss" :ARTIST "The Killers" :RATING 5 :RIPPED T)) 
